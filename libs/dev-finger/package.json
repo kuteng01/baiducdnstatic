@@ -1,0 +1,23 @@
+{
+  "name": "dev-finger.js",
+  "filename": "dev-finger.js",
+  "version": "1.0",
+  "description": "Simple dev finger script",
+  "homepage": "http://www.chartjs.org/",
+  "keywords": [
+    "Chart.js","charts"
+  ],
+  "maintainers": [
+    {
+      "name": "kuteng",
+      "web": "http://www.nickdownie.com/",
+      "mail": "kuteng@qq.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/nnnick/Chart.js"
+    }
+  ]
+}
